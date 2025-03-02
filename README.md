@@ -1,5 +1,5 @@
 # Setup-Driver-FULL
-Fix Error Hack (Sửa Lỗi Diss Game,Không hiện Menu Hack)
+**Fix Error Hack**: Sửa Lỗi (Diss,Crash) Game, Không hiện Menu Hack, Không chạy được hack 
 # Tải xuống và cài đặt
 [ 0 ] - (Khuyến khích sài Winrar để giải nén thư mục tiện hơn) [ https://www.win-rar.com/predownload.html?&L=0 ]
 
